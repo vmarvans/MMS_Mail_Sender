@@ -10,3 +10,4 @@ Kullanmak için maili gönderecek gmail hesabından uygulama şifresi almanız g
 Bu adımları uyguladıktan sonra uygulama giriş ekranındaki gmail kısmına kullanılacak olan mail adresini şifre kısmına ise oluşturduğunuz uygulama şifresini giriniz.
 
 NOT: "mails.txt" dosyasına mail gönderilecek adresleri satır satır yazmanız gerekmektedir aksi taktirde uygulama düzgün çalışmayacaktır.
+NOT: Etik dışı kullanımlar yasal değildir.
